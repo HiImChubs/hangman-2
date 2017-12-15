@@ -1,0 +1,9 @@
+School Subjects
+Math 
+Art
+Science
+History
+English
+Spanish
+French
+Computer

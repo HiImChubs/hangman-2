@@ -1,0 +1,12 @@
+Computer Brands
+Alienware
+Apple
+Lenovo
+Samsung
+Google
+Microsoft
+Acer
+Asus
+Dell
+HP
+Razer
